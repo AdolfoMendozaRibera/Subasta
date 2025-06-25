@@ -1,4 +1,4 @@
-📌 Descripción del Proyecto
+#📌 Descripción del Proyecto
 Este contrato inteligente implementa un sistema de subastas descentralizado en la blockchain Ethereum con todas las funcionalidades requeridas, incluyendo características avanzadas como reembolsos parciales y extensión automática del tiempo de subasta.
 
 🔧 Tecnologías Utilizadas
